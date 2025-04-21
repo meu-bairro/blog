@@ -1,12 +1,11 @@
 name: Meu Bairro 
 tagline: bairros conectados em uma rede federada.
-url: https://meu-bairro.github.io
+url: https://meu-bairro.github.io/blog
 menu:
   - ["About", "about.html"]
   - ["Pages", "pages.html"]
   - ["Tags", "tags.html"]
-  - ["Follow me", "https://mastodon.social/@YOURUSER"]
-  - ["Github", "https://github.com/rochacbruno/marmite"]
+  - ["Github", "https://github.com/meu-bairro"]
 
 
 # More options available to customize the website
